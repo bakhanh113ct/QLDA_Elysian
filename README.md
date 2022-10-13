@@ -6,7 +6,7 @@ Project Name: Elysian
 
 Team Member:
 * Nguyen Tuan Khoi - 20521480
-* Nguyen Duc Long - 20521566
+* Nguyen Khanh - 20521449
 * Nguyen Ba Khanh - 20521450
 ## Description: 
 
